@@ -1,0 +1,28 @@
+
+
+
+
+
+.container{
+
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 450px;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+
+
+.grid-boxes {
+
+    background-color: green;
+    padding: 12px;
+    border: 2px solid black;
+
+}
